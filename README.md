@@ -40,8 +40,8 @@ Jika tidak ada data yang disimpan, maka table data mahasiswa akan muncul pesan d
 
 # Dibuat oleh
 
-1. Nama    : Maulana Abdul Siddiq
-2. NIM     : 16090112
+1. Nama    : Candra Septia Cahya
+2. NIM     : 1609048
 3. Kelas   : 4C
 4. Teknik Informatika
 
